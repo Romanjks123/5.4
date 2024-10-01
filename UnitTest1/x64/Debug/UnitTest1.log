@@ -1,0 +1,14 @@
+﻿  UnitTest1.cpp
+C:\Users\Roman\Desktop\лаба автоматизація\коди\5.4\UnitTest1\UnitTest1.cpp(26,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\Roman\Desktop\лаба автоматизація\коди\5.4\UnitTest1\UnitTest1.cpp(28,90): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\Roman\Desktop\лаба автоматизація\коди\5.4\UnitTest1\UnitTest1.cpp(36,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\Roman\Desktop\лаба автоматизація\коди\5.4\UnitTest1\UnitTest1.cpp(38,90): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+  (compiling source file '/UnitTest1.cpp')
+  
+  UnitTest1.vcxproj -> C:\Users\Roman\Desktop\лаба автоматизація\коди\5.4\x64\Debug\UnitTest1.dll
